@@ -4,14 +4,13 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Decidoro/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Decidoro/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Decidoro/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Decidoro/ticket-lifecycle) (currently Working on)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Decidoro/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Decidoro/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Decidoro/configure-ad)(in progress)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Decidoro/azure-network-protocols) (in progress)
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Deci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/decidoro

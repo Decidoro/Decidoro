@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Decidoro/osticket-prereqs)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Decidoro/ticket-lifecycle) (currently Working on)
+  - [osTicket: Ticket Configuration](https://github.com/Decidoro/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Decidoro/configure-ad)(in progress)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Decidoro/azure-network-protocols) (in progress)

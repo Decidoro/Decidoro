@@ -6,8 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Decidoro/osticket-prereqs)
   - [osTicket: Ticket Configuration](https://github.com/Decidoro/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  <b>-Azure Walkthroughs
-
+  -
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Deci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

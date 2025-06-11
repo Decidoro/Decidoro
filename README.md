@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Decidoro/osticket-prereqs)
   - [osTicket: Ticket Configuration](https://github.com/Decidoro/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  -Azure Walkthroughs
+  <b>-Azure Walkthroughs
 
 <h2>Connect with me:</h2>
 

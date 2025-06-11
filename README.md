@@ -6,8 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Decidoro/osticket-prereqs)
   - [osTicket: Ticket Configuration](https://github.com/Decidoro/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Decidoro/configure-ad)(currently in progress)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Decidoro/azure-network-protocols) (in progress)
+  -Azure Walkthroughs
 
 <h2>Connect with me:</h2>
 
